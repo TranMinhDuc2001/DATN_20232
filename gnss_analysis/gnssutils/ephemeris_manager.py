@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 
 
-token=''
+token='' #generate token from https://urs.earthdata.nasa.gov/
 
 
 class EphemerisManager():
